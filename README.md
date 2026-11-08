@@ -33,10 +33,15 @@ Oturum satınalmayla bitti mi?
 
 
 **Verinin indirilmesi:** Veri bu depoda yoktur.
+Veri Kaynakta belirtilen linkten indirilerek Google Drive'a kopyalanmış ve paylaşıma açılmıştır. Colabta kodlar Drive linkinden alacak şekilde yazılmıştır.
+(https://drive.google.com/file/d/1jdg4x1QybV0rpoGCgaQoglRql5DOUDG5/view?usp=drive_link)
 
-Veri Kaynakta belirtilen linkten indirilerek Google Drive'da, projenin bulunduğu dizine  /content/drive/MyDrive/Colab Notebooks altına kopyalandı.
+Colab Not defteri Google driveda paylaşıma açılmıştır
+(https://colab.research.google.com/drive/1tMvCJX2IPBgsZqAsuNRef5_lgVU5QJct?usp=drive_link)
 
-Sonrasında, google drive bağlantısı yapıldı.
+GitHub deposu public yapılmıştır.
+https://github.com/belginbyavuz/BIL545_Proje1_V1
+
 
 
 
