@@ -42,7 +42,10 @@ Colab Not defteri Google driveda paylaşıma açılmıştır
 GitHub deposu public yapılmıştır.
 https://github.com/belginbyavuz/BIL545_Proje1_V1
 
+**Sunum Dosyaları**
 
+Sunum dosyaları aşağıdaki drive linkine eklenmiştir. Bölüm1 ve Bölüm3 için iki ayrı video çekilerek eklendi.
+https://drive.google.com/drive/folders/1GXaf00imwLAAcz1DJkpVrcYwQTLjNo0A?usp=drive_link
 
 
 ## Depo yapısı
