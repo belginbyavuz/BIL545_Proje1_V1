@@ -29,16 +29,15 @@ Oturum satınalmayla bitti mi?
 
 **Verinin indirilmesi:** Veri bu depoda yoktur.
 Veri Kaynakta belirtilen linkten indirilerek Google Drive'a kopyalanmış paylaşıma açılmıştır. Colabta kodlar Drive linkinden alacak şekilde yazılmıştır.
-(https://drive.google.com/file/d/1jdg4x1QybV0rpoGCgaQoglRql5DOUDG5/view?usp=drive\_link)
+https://drive.google.com/file/d/1jdg4x1QybV0rpoGCgaQoglRql5DOUDG5/view?usp=drive\_link
 
 Colab Not defteri Google driveda görüntüleme amaçlı paylaşıma açılmıştır
-(https://colab.research.google.com/drive/1tMvCJX2IPBgsZqAsuNRef5\_lgVU5QJct?usp=drive\_link)
+https://colab.research.google.com/drive/1tMvCJX2IPBgsZqAsuNRef5\_lgVU5QJct?usp=drive\_link
 
 GitHub deposu public yapılmıştır.
-https://github.com/belginbyavuz/BIL545\_Proje1\_V1
+https://github.com/belginbyavuz/BIL545_Proje1_V1
 
 **Sunum Dosyaları**
-
 Sunum dosyaları aşağıdaki drive linkine eklenmiştir. Bölüm1 ve Bölüm3 için iki ayrı video çekilerek eklendi.
 https://drive.google.com/drive/folders/1wnkNRUkJv3WhY1iYirwFiAJL1tkRMeGk?usp=drive\_link
 
