@@ -4,11 +4,12 @@
 
 ## Grup
 
-|Üye|Öğrenci no|
-|Belgin Yavuz|264329004|
+| Üye | Öğrenci no |
+| :--- | :--- |
+| Belgin Yavuz | 264329004 |
 
-* **Grup adı:** \[V1]
-* **İletişim sorumlusu:** \[Belgin Yavuz, belgin.yavuz@st.uskudar.edu.tr]
+* **Grup adı:** V1
+* **İletişim sorumlusu:** Belgin Yavuz, belgin.yavuz@st.uskudar.edu.tr
 * **Grup tipi:** 1 kişi (Bu çalışma 1. ve 3. bölümlerden oluşmaktadır.)
 
 ## Soru
@@ -32,28 +33,28 @@ Veri Kaynakta belirtilen linkten indirilerek Google Drive'a kopyalanmış payla�
 https://drive.google.com/file/d/1jdg4x1QybV0rpoGCgaQoglRql5DOUDG5/view?usp=drive\_link
 
 Colab Not defteri Google driveda görüntüleme amaçlı paylaşıma açılmıştır
-https://colab.research.google.com/drive/1tMvCJX2IPBgsZqAsuNRef5\_lgVU5QJct?usp=drive\_link
+https://colab.research.google.com/drive/1tMvCJX2IPBgsZqAsuNRef5_lgVU5QJct
 
 GitHub deposu public yapılmıştır.
 https://github.com/belginbyavuz/BIL545_Proje1_V1
 
 **Sunum Dosyaları**
+
 Sunum dosyaları aşağıdaki drive linkine eklenmiştir. Bölüm1 ve Bölüm3 için iki ayrı video çekilerek eklendi.
 https://drive.google.com/drive/folders/1wnkNRUkJv3WhY1iYirwFiAJL1tkRMeGk?usp=drive\_link
+
 
 ## Depo yapısı
 
 ```
-
 Proje 1 için yapı şu şekildedir
 README.md
-BIL545\\\\\\\_Proje1\\\\\\\_V1.ipynb
+BIL545_Proje1_V1.ipynb
 
 Proje 2 için yeni repository açılacaktır
 README.md
-BIL545\\\\\\\_Proje2\\\\\\\_V1.ipynb
+BIL545_Proje2_V1.ipynb
 ```
-
 ## Çalıştırma
 
 1. Defteri Colab'da açın: \[https://colab.research.google.com/drive/1tMvCJX2IPBgsZqAsuNRef5\_lgVU5QJct?usp=sharing]
